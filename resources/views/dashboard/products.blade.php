@@ -125,9 +125,7 @@
                                 return $.fn.dataTable.util.escapeRegex($(element).val());
                             }).toArray().join('|');
 
-                            column
-                                .search(vals.length > 0 ? '^(' + vals + ')$' : '', true, false)
-                                .draw();
+                            column.search(vals.length > 0 ? '^(' + vals + ')$' : '', true, false).draw();
                             if (vals === "") {
                                 $(this).parent().removeClass("factive");
                             } else {
@@ -179,7 +177,7 @@
                      } );
                  table.column( i ).data().unique().sort().each( function ( d, j ) {
                      if(d && d !== '-')
-                         select.append( '<option value="'+d+'">'+d+'</option>' )
+                         select.append( '<option value="'+ d +'">'+ d +'</option>' )
                  } );
              } );
          });

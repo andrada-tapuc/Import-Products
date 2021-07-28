@@ -148,6 +148,7 @@
       <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
       <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
       <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/mehradsadeghi/laravel-filter-querystring" />
     </include_path>
   </component>
   <component name="ProjectId" id="1vchX6d2rHfnACnmE6epknDH3bt" />
@@ -159,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/dd_mvp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -199,7 +200,11 @@
       <updated>1626867320988</updated>
       <workItem from="1626867322698" duration="8426000" />
       <workItem from="1626933763438" duration="16279000" />
-      <workItem from="1627019365931" duration="20172000" />
+      <workItem from="1627019365931" duration="22378000" />
+      <workItem from="1627293488625" duration="5113000" />
+      <workItem from="1627366562497" duration="597000" />
+      <workItem from="1627374325975" duration="3422000" />
+      <workItem from="1627453267687" duration="4838000" />
     </task>
     <servers />
   </component>
@@ -207,10 +212,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="442" key="NewPhpFileDialog" timestamp="1626871643774">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1627453741319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="442" key="NewPhpFileDialog/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626871643774" />
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627453741319" />
+    <state x="794" y="442" key="NewPhpFileDialog" timestamp="1627307447290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="442" key="NewPhpFileDialog/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627307447290" />
     <state x="48" y="122" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627291106663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
